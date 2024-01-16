@@ -88,6 +88,6 @@ nitro: {
 - 请不要启用AI Gateway的缓存，否则可能会导致重复的回复
 - 请保持与Main分支同步，以便获取最新的功能和修复
 
-## Star History
+## Star Historyy
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Jazee6/cloudflare-ai-web&type=Date)](https://star-history.com/#Jazee6/cloudflare-ai-web&Date)
